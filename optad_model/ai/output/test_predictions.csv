@@ -1,0 +1,101 @@
+process_name,pid,cpu_usage,memory_mb,thread_count,connections,children,normal_folder,expected_label,threat_type,risk_score,predicted_label
+launchd,5000,0.09,24.62,1,0,0,1.0,Benign,Normal System/User Activity,7.4,Benign
+sshd,5002,0.08,14.66,1,1,0,1.0,Benign,Normal System/User Activity,9.2,Benign
+explorer.exe,5007,1.68,129.25,8,0,1,1.0,Benign,Normal System/User Activity,17.4,Benign
+bash,5009,0.0,9.82,1,0,0,1.0,Benign,Normal System/User Activity,6.7,Benign
+chrome,5015,6.96,169.22,20,6,2,1.0,Benign,Normal System/User Activity,34.6,Benign
+git,5020,0.46,15.96,4,0,0,1.0,Benign,Normal System/User Activity,7.6,Benign
+dbus-daemon,5024,0.18,11.2,1,0,0,1.0,Benign,Normal System/User Activity,6.8,Benign
+mysqld,5029,2.68,202.4,22,8,0,1.0,Benign,Normal System/User Activity,22.9,Benign
+node,5032,1.07,104.89,8,1,0,1.0,Benign,Normal System/User Activity,8.8,Benign
+finder,5034,0.51,63.75,7,0,0,1.0,Benign,Normal System/User Activity,7.4,Benign
+node,5040,0.0,146.0,9,2,0,1.0,Benign,Normal System/User Activity,12.1,Benign
+launchd,5044,0.24,17.08,3,0,0,1.0,Benign,Normal System/User Activity,7.0,Benign
+python3,5048,0.0,8.36,4,0,0,1.0,Benign,Normal System/User Activity,8.3,Benign
+git,5053,0.57,34.6,2,0,0,1.0,Benign,Normal System/User Activity,7.1,Benign
+slack,5056,1.51,390.77,9,5,0,1.0,Benign,Normal System/User Activity,25.5,Benign
+slack,5058,1.53,135.82,13,5,0,1.0,Benign,Normal System/User Activity,13.9,Benign
+slack,5064,0.84,295.54,18,4,0,1.0,Benign,Normal System/User Activity,16.0,Benign
+spotify,5066,1.94,152.1,11,3,0,1.0,Benign,Normal System/User Activity,11.7,Benign
+python3,5070,0.13,29.26,5,0,0,1.0,Benign,Normal System/User Activity,7.6,Benign
+git,5072,0.79,23.68,1,0,0,1.0,Benign,Normal System/User Activity,10.2,Benign
+python3,5074,0.82,58.01,3,0,0,1.0,Benign,Normal System/User Activity,7.9,Benign
+systemd,5080,0.09,15.46,2,0,0,1.0,Benign,Normal System/User Activity,6.3,Benign
+dock,5082,0.5,39.24,5,0,0,1.0,Benign,Normal System/User Activity,7.0,Benign
+chrome,5085,3.16,302.22,24,7,4,1.0,Benign,Normal System/User Activity,35.9,Benign
+python3,5091,1.01,71.2,4,0,0,1.0,Benign,Normal System/User Activity,7.6,Benign
+dbus-daemon,5093,0.16,6.1,1,0,0,1.0,Benign,Normal System/User Activity,7.7,Benign
+mysqld,5096,0.27,287.99,21,9,0,1.0,Benign,Normal System/User Activity,25.5,Benign
+bash,5099,0.02,11.3,2,0,0,1.0,Benign,Normal System/User Activity,6.4,Benign
+chrome,5103,1.98,241.69,12,3,1,1.0,Benign,Normal System/User Activity,17.4,Benign
+systemd,5109,0.13,16.17,1,0,0,1.0,Benign,Normal System/User Activity,6.8,Benign
+chrome,5113,3.31,174.65,23,2,2,1.0,Benign,Normal System/User Activity,24.9,Benign
+dbus-daemon,5116,0.18,10.98,1,0,0,1.0,Benign,Normal System/User Activity,6.8,Benign
+code,5120,2.29,316.98,7,0,1,1.0,Benign,Normal System/User Activity,23.9,Benign
+systemd,5122,0.17,12.97,2,0,0,1.0,Benign,Normal System/User Activity,6.5,Benign
+systemd,5125,0.1,13.49,1,0,0,1.0,Benign,Normal System/User Activity,6.7,Benign
+bash,5129,0.0,5.0,1,0,0,1.0,Benign,Normal System/User Activity,7.6,Benign
+dock,5135,0.3,64.34,5,0,0,1.0,Benign,Normal System/User Activity,6.9,Benign
+code,5137,3.67,248.49,14,3,0,1.0,Benign,Normal System/User Activity,14.7,Benign
+launchd,5141,0.19,15.52,3,0,0,1.0,Benign,Normal System/User Activity,6.8,Benign
+node,5144,1.13,8.26,7,1,0,1.0,Benign,Normal System/User Activity,10.7,Benign
+explorer.exe,5150,0.51,97.19,11,1,0,1.0,Benign,Normal System/User Activity,10.0,Benign
+finder,5152,0.69,72.9,4,0,0,1.0,Benign,Normal System/User Activity,7.3,Benign
+slack,5157,4.04,249.45,22,6,0,1.0,Benign,Normal System/User Activity,21.1,Benign
+mysqld,5163,1.71,176.66,19,9,0,1.0,Benign,Normal System/User Activity,23.5,Benign
+git,5165,0.67,39.64,2,0,0,1.0,Benign,Normal System/User Activity,7.6,Benign
+bash,5171,0.04,12.56,1,0,0,1.0,Benign,Normal System/User Activity,6.6,Benign
+launchd,5177,0.05,10.6,3,0,0,1.0,Benign,Normal System/User Activity,7.1,Benign
+sshd,5183,0.01,16.51,2,3,0,1.0,Benign,Normal System/User Activity,11.1,Benign
+systemd,5188,0.05,12.97,1,0,0,1.0,Benign,Normal System/User Activity,6.5,Benign
+finder,5190,0.85,98.51,7,0,0,1.0,Benign,Normal System/User Activity,7.6,Benign
+node,5195,2.68,68.77,11,3,0,1.0,Benign,Normal System/User Activity,13.2,Benign
+finder,5197,1.06,73.97,7,0,0,1.0,Benign,Normal System/User Activity,7.6,Benign
+WindowServer,5202,2.4,210.3,16,0,0,1.0,Benign,Normal System/User Activity,15.6,Benign
+dock,5204,0.64,57.84,4,0,0,1.0,Benign,Normal System/User Activity,7.2,Benign
+chrome,5210,1.68,294.98,22,2,0,1.0,Benign,Normal System/User Activity,17.5,Benign
+chrome,5212,3.7,155.75,27,4,0,1.0,Benign,Normal System/User Activity,21.4,Benign
+nginx,5216,0.87,49.38,4,6,2,1.0,Benign,Normal System/User Activity,23.0,Benign
+dbus-daemon,5222,0.24,11.21,1,0,0,1.0,Benign,Normal System/User Activity,7.2,Benign
+spotify,5226,2.37,171.74,11,1,0,1.0,Benign,Normal System/User Activity,11.9,Benign
+loginwindow,5232,0.21,36.19,3,0,0,1.0,Benign,Normal System/User Activity,6.7,Benign
+dev_server,5236,14.5,420.0,16,12,2,1.0,Suspicious,High local connections and memory usage,47.8,Suspicious
+data_backup.sh,5241,28.0,180.0,5,1,3,1.0,Suspicious,Unusual CPU spike on shell script,54.1,Suspicious
+python_scraper,5247,18.2,350.0,12,18,1,1.0,Suspicious,High external HTTP connection count,51.7,Suspicious
+electron_app,5253,12.0,580.0,24,8,2,1.0,Suspicious,Heavier than normal memory footprint,47.3,Suspicious
+updater_tool,5258,5.0,95.0,6,4,1,0.0,Suspicious,Running from user Downloads folder (normal_folder=0),72.0,Anomaly
+test_runner,5260,32.0,290.0,10,0,4,1.0,Suspicious,Bursty compilation CPU activity,56.4,Suspicious
+media_converter,5267,42.0,310.0,18,0,1,1.0,Suspicious,FFmpeg intensive encoding spike,69.0,Anomaly
+temp_cli,5269,2.5,45.0,3,2,0,0.0,Suspicious,Binary executing from temporary workspace,45.0,Suspicious
+sync_agent,5276,8.5,210.0,14,15,0,1.0,Suspicious,Cloud sync burst traffic,49.2,Suspicious
+p2p_client,5283,15.0,260.0,20,22,1,1.0,Suspicious,Elevated peer network connections,51.4,Suspicious
+dev_server,5289,14.5,420.0,16,12,2,1.0,Suspicious,High local connections and memory usage,47.8,Suspicious
+data_backup.sh,5296,28.0,180.0,5,1,3,1.0,Suspicious,Unusual CPU spike on shell script,54.1,Suspicious
+python_scraper,5299,18.2,350.0,12,18,1,1.0,Suspicious,High external HTTP connection count,51.7,Suspicious
+electron_app,5304,12.0,580.0,24,8,2,1.0,Suspicious,Heavier than normal memory footprint,47.3,Suspicious
+updater_tool,5309,5.0,95.0,6,4,1,0.0,Suspicious,Running from user Downloads folder (normal_folder=0),72.0,Anomaly
+test_runner,5312,32.0,290.0,10,0,4,1.0,Suspicious,Bursty compilation CPU activity,56.4,Suspicious
+media_converter,5317,42.0,310.0,18,0,1,1.0,Suspicious,FFmpeg intensive encoding spike,69.0,Anomaly
+temp_cli,5321,2.5,45.0,3,2,0,0.0,Suspicious,Binary executing from temporary workspace,45.0,Suspicious
+sync_agent,5326,8.5,210.0,14,15,0,1.0,Suspicious,Cloud sync burst traffic,49.2,Suspicious
+p2p_client,5331,15.0,260.0,20,22,1,1.0,Suspicious,Elevated peer network connections,51.4,Suspicious
+xmrig_miner,5336,98.5,850.0,48,4,0,0.0,Anomaly,"Cryptominer: maxed CPU, disguised binary in /tmp",76.4,Anomaly
+revshell_sh,5343,0.5,12.0,1,1,4,0.0,Anomaly,Reverse shell: hidden spawn in /dev/shm with child shells,72.0,Anomaly
+ransomware_enc,5345,89.0,620.0,32,0,0,0.0,Anomaly,Ransomware: bulk file encryption from /tmp with high IO/CPU,75.2,Anomaly
+c2_beacon,5349,1.2,45.0,4,45,0,0.0,Anomaly,C2 Beacon: abnormal connection burst from non-standard path,72.0,Anomaly
+syn_flooder,5354,78.0,95.0,12,160,0,0.0,Anomaly,DDoS flooder: anomalous socket connections,75.5,Anomaly
+fork_bomb,5358,94.0,310.0,64,0,55,0.0,Anomaly,Denial-of-Service: rapid process fork bombing,81.6,Anomaly
+mem_dumper,5365,24.0,1850.0,8,0,0,0.0,Anomaly,Credential dumping: extreme memory scan anomaly,72.0,Anomaly
+stealth_keylogger,5369,0.1,18.0,2,8,0,0.0,Anomaly,Spyware: stealth keystroke logging hooked in hidden dir,72.0,Anomaly
+dropper_payload,5373,45.0,210.0,15,25,8,0.0,Anomaly,Malware dropper: downloading stage2 payloads from /tmp,82.0,Anomaly
+data_exfiltrator,5376,35.0,480.0,16,75,1,0.0,Anomaly,Data exfiltration: high-volume outbound socket transfers,78.9,Anomaly
+xmrig_miner,5383,98.5,850.0,48,4,0,0.0,Anomaly,"Cryptominer: maxed CPU, disguised binary in /tmp",76.4,Anomaly
+revshell_sh,5388,0.5,12.0,1,1,4,0.0,Anomaly,Reverse shell: hidden spawn in /dev/shm with child shells,72.0,Anomaly
+ransomware_enc,5390,89.0,620.0,32,0,0,0.0,Anomaly,Ransomware: bulk file encryption from /tmp with high IO/CPU,75.2,Anomaly
+c2_beacon,5392,1.2,45.0,4,45,0,0.0,Anomaly,C2 Beacon: abnormal connection burst from non-standard path,72.0,Anomaly
+syn_flooder,5394,78.0,95.0,12,160,0,0.0,Anomaly,DDoS flooder: anomalous socket connections,75.5,Anomaly
+fork_bomb,5396,94.0,310.0,64,0,55,0.0,Anomaly,Denial-of-Service: rapid process fork bombing,81.6,Anomaly
+mem_dumper,5401,24.0,1850.0,8,0,0,0.0,Anomaly,Credential dumping: extreme memory scan anomaly,72.0,Anomaly
+stealth_keylogger,5403,0.1,18.0,2,8,0,0.0,Anomaly,Spyware: stealth keystroke logging hooked in hidden dir,72.0,Anomaly
+dropper_payload,5410,45.0,210.0,15,25,8,0.0,Anomaly,Malware dropper: downloading stage2 payloads from /tmp,82.0,Anomaly
+data_exfiltrator,5417,35.0,480.0,16,75,1,0.0,Anomaly,Data exfiltration: high-volume outbound socket transfers,78.9,Anomaly
